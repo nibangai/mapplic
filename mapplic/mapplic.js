@@ -81,7 +81,7 @@
 			clearsearch: 'Clear search',
 			closepopup: 'Close popup',
 			clearfilter: 'Clear filter',
-			iconfile: 'mapplic/images/icons.svg'
+			iconfile: 'https://nibangai.github.io/mapplic/mapplic/images/icons.svg'
 		}
 
 		self.el = element;

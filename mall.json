@@ -63,6 +63,16 @@
 			"show": "true",
 			"locations": [
 				{
+					"id": "ishidogazai",
+					"title": "いしど画材",
+					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
+					"description": "<p>文具・画材・額縁・工芸材料・和洋紙・アートスクール</p><strong>10:00-19:00</strong> <small>Free WiFi有り</small>",
+					"category": "dep",
+					"x": "0.3733",
+					"y": "0.8167",
+					"zoom": "2"
+				},
+				{
 					"id": "nordstrom",
 					"title": "Nordstrom",
 					"about": "Lorem ipsum dolor sit amet.",

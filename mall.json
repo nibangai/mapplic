@@ -42,6 +42,19 @@
 			"style": "dark"
 		},
 		{
+			"id": "shopping",
+			"title": "ショッピング",
+			"about": "駅近でなんでも揃っちゃう！",
+			"color": "#8DB3DC",
+			"style": "dark"
+		},
+		{
+			"id": "service",
+			"title": "サービス&その他",
+			"about": "その他の店舗はこちら！",
+			"color": "#D3B8F8"
+		},
+		{
 			"id": "others",
 			"title": "Others",
 			"color": "#D3B8F8"
@@ -67,9 +80,23 @@
 					"title": "いしど画材",
 					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
 					"description": "<p>文具・画材・額縁・工芸材料・和洋紙・アートスクール</p><strong>10:00-19:00</strong> <small>Free WiFi有り</small>",
-					"category": "dep",
-					"x": "0.3733",
-					"y": "0.8167",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923a92e43da590a3c8eba_grid-ishidogazai1-min.jpg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/ishido-gazai",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "menstbc",
+					"title": "MEN'S TBC柏店",
+					"about": "メンズエステティック",
+					"description": "<p>メンズエステティック</p><strong>平日 11:00-20:00、土日祝 10:00-19:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6949b3954098075775b939_grid-menstbc1-min.jpg",
+					"category": "service",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/mens-tbc",
+					"x": "0.9023",
+					"y": "0.5380",
 					"zoom": "2"
 				},
 				{

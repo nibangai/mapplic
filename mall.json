@@ -22,6 +22,12 @@
 			"color": "#FF9595"
 		},
 		{
+			"id": "entertainment",
+			"title": "娯楽",
+			"about": "柏二番街で遊ぶならココ！",
+			"color": "#FF9595"
+		},
+		{
 			"id": "health",
 			"title": "Health",
 			"about": "Health & Cosmetics",
@@ -29,8 +35,8 @@
 		},
 		{
 			"id": "food",
-			"title": "Food, Drinks",
-			"about": "Fast-foods & Restaurants",
+			"title": "柏二番街で食事",
+			"about": "中華からイタリアンまで、今日はどんな気分？",
 			"icon": "https://nibangai.github.io/mapplic/images/food.svg",
 			"color": "#A5C882"
 		},
@@ -95,6 +101,90 @@
 					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff5d1b2b49f2b00ef53aa6a_menstbc1-m.jpeg",
 					"category": "service",
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/mens-tbc",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "furisode",
+					"title": "ふりそで工房 柏店",
+					"about": "振袖（販売・レンタル）",
+					"description": "<p>振袖（販売・レンタル）</p><strong>10:30-18:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff6e365b365253739402d31_furisode1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/furisode-laboratory",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "ikukomamas",
+					"title": "いくこママズパソコンスクール",
+					"about": "パソコン教育、スマホ・タブレット教育",
+					"description": "<p>パソコン教育、スマホ・タブレット教育</p><strong>原則1-3週 10:00-17:00、土曜 1.3週</strong> <small>Free WiFi、コンセント、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff6e365650715066e36912c_ikukomamas1-m.jpeg",
+					"category": "service",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/ikuko-mamas",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "utahiroba",
+					"title": "カラオケルーム 歌広場柏東口二番街店",
+					"about": "カラオケ",
+					"description": "<p>カラオケ</p><strong>10:00-翌6:00</strong> <small>コンセント、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff6e365fa70909dde9581b5_utahiroba1-m.jpeg",
+					"category": "entertainment",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/utahiroba",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "abcmart",
+					"title": "ABC-MART柏店",
+					"about": "靴",
+					"description": "<p>靴</p><strong>10:00-20:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff6e365eea385e06dc1f3a0_abcmart1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/abc-mart",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "tsutsumi",
+					"title": "TSUTSUMI ジュエリーツツミ 柏店",
+					"about": "宝石・貴金属・アクセサリー",
+					"description": "<p>宝石・貴金属・アクセサリー</p><strong>10:00-20:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c8121fe73fc718c91276ec5_grid-tsutsumi2-min.jpg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/tsutsumi",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "sapty",
+					"title": "たべのみや Sapty Pepper's",
+					"about": "たべのみや",
+					"description": "<p>たべのみや</p><strong>11:00-16:00, 17:00-24:00</strong> <small>コンセント、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c69178fc8252c48f2ac4626_grid-sapty2-min.jpg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/sapty-peppers",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
+					"id": "yumean",
+					"title": "夢庵柏駅東口店",
+					"about": "和食レストラン",
+					"description": "<p>和食レストラン</p><strong>10:00-23:00</strong> <small>Free WiFi、コンセント有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c691790c8252c0b73ac4627_grid-yumean1-min.jpg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/yumean",
 					"x": "0.9023",
 					"y": "0.5380",
 					"zoom": "2"

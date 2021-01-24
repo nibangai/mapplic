@@ -185,11 +185,11 @@
                 <path id="bailindo-wall-b" serif:id="bailindo wall b" d="M767.199,254.626L797.71,253.308L797.71,260.063L767.629,264.738L767.199,254.626Z" style="fill:rgb(51,51,51);"/>
                 <path id="bailindo-roof" serif:id="bailindo roof" d="M765.545,217.811L858.584,213.534L863.622,233.194L797.542,243.98L797.71,253.593L767.199,254.441L765.545,217.811Z" style="fill:rgb(96,96,96);"/>
             </g>
-            <g id="donki">
+            <g id="donkibldg">
                 <path id="donki-wall-b" serif:id="donki wall b" d="M480.452,389.885L214.871,516.025L225.416,535.15L480.452,411.543L480.452,389.885Z" style="fill:rgb(141,141,67);"/>
                 <path id="donki-wall-a" serif:id="donki wall a" d="M104.368,364.395L113.804,390.367L196.586,541.338L202.493,537.22L104.368,364.395Z" style="fill:rgb(115,115,27);"/>
                 <path id="donki-roof" serif:id="donki roof" d="M480.448,389.902L195.392,525.356L102.874,362.584L215.425,308.561L224.349,312.663L282.486,297.657L286.365,304.868L412.606,271.784L480.452,377.674L480.448,389.902" style="fill:rgb(236,236,88);"/>
-                <g transform="matrix(1.29639,-0.455228,0.378123,1.07681,-206.586,70.4766)">
+                <g id="donki" transform="matrix(1.29639,-0.455228,0.378123,1.07681,-206.586,70.4766)">
                     <ellipse cx="268.726" cy="396.362" rx="89.637" ry="31.968" style="fill:white;"/>
                 </g>
                 <g id="donkilogo" transform="matrix(0.0242221,-0.00868416,0.00868416,0.0242221,191.532,391.391)">

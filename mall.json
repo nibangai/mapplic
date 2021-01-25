@@ -82,6 +82,14 @@
 			"show": "true",
 			"locations": [
 				{
+					"id": "donkibldg",
+					"title": "長崎屋 ドン・キホーテ",
+					"about": "1-3F<br>ドン・キホーテ柏駅前点",
+					"x": "0.9023",
+					"y": "0.5380",
+					"zoom": "2"
+				},
+				{
 					"id": "ishidogazai",
 					"title": "いしど画材",
 					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",

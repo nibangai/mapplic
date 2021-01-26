@@ -35,13 +35,6 @@
 			"color": "#A5C882"
 		},
 		{
-			"id": "dep",
-			"title": "Department Stores",
-			"about": "Wide wariety of goods",
-			"color": "#8DB3DC",
-			"style": "dark"
-		},
-		{
 			"id": "shopping",
 			"title": "ショッピング",
 			"about": "駅近でなんでも揃っちゃう！",
@@ -80,6 +73,14 @@
 					"title": "長崎屋 ドン・キホーテ",
 					"about": "1-3F<br>ドン・キホーテ柏駅前点",
 					"description": "<strong>1-3F</strong><br>ドン・キホーテ柏駅前店<br><strong>2F</strong><br>パーラーナルシマ<br><strong>1F</strong><br>㈱成島組<br><strong>B1F</strong><br>楽園 柏店<br>",
+					"x": "0.3032",
+					"y": "0.7405",
+					"zoom": "2"
+				},
+				{
+					"id": "ishidobldg",
+					"title": "いしど画材ビル",
+					"action": "reveal",
 					"x": "0.3032",
 					"y": "0.7405",
 					"zoom": "2"

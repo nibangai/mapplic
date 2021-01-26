@@ -492,7 +492,8 @@
 					"category": "shopping",
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/sun-drug",
 					"x": "0.1740",
-					"y": "0.1722"
+					"y": "0.1722",
+					"reveal": "2"
 				},
 				{
 					"id": "pia",

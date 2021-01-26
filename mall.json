@@ -22,12 +22,6 @@
 			"color": "#FF9595"
 		},
 		{
-			"id": "health",
-			"title": "Health",
-			"about": "Health & Cosmetics",
-			"color": "#FFB985"
-		},
-		{
 			"id": "food",
 			"title": "柏二番街で食事",
 			"about": "中華からイタリアンまで、今日はどんな気分？",
@@ -45,11 +39,6 @@
 			"id": "service",
 			"title": "サービス&その他",
 			"about": "その他の店舗はこちら！",
-			"color": "#D3B8F8"
-		},
-		{
-			"id": "others",
-			"title": "Others",
 			"color": "#D3B8F8"
 		},
 		{
@@ -585,117 +574,6 @@
 					"x": "0.1359",
 					"y": "0.8315",
 					"zoom": "2"
-				},
-				{
-					"id": "nordstrom",
-					"title": "Nordstrom",
-					"about": "Lorem ipsum dolor sit amet.",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "dep, fashion",
-					"style": "dark",
-					"x": "0.7856",
-					"y": "0.2022",
-					"zoom": "2"
-				},
-				{
-					"id": "macys",
-					"title": "Macy's",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "dep",
-					"x": "0.2021",
-					"y": "0.5847",
-					"zoom": "2"
-				},
-				{
-					"id": "jcpenney",
-					"title": "JCPenney",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "dep, health",
-					"style": "dark",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.6651",
-					"y": "0.6734",
-					"zoom": "2"
-				},
-				{
-					"id": "walgreens",
-					"title": "Walgreens",
-					"about": "Lorem ipsum",
-					"description": "At the corner of Happy & Healthy",
-					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
-					"category": "health",
-					"x": "0.4611",
-					"y": "0.5426"
-				},
-				{
-					"id": "sephora",
-					"title": "Sephora",
-					"about": "Lorem ipsum",
-					"description": "<p>Makeup, fragrance, skincare</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
-					"category": "health",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.7504",
-					"y": "0.5211"
-				},
-				{
-					"id": "geox",
-					"title": "Geox",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.3947",
-					"y": "0.5544"
-				},
-				{
-					"id": "hnm",
-					"title": "H&M",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.6445",
-					"y": "0.4478"
-				},
-				{
-					"id": "adidas",
-					"title": "Adidas",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.3688",
-					"y": "0.3909"
-				},
-				{
-					"id": "massimodutti",
-					"title": "Massimo Dutti",
-					"about": "Lorem ipsum",
-					"description": "<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"x": "0.6243",
-					"y": "0.2655"
-				},
-				{
-					"id": "starbucks",
-					"title": "Starbucks",
-					"about": "Lorem ipsum",
-					"description": "<p>Enjoy today and every day with our creamy non-dairy beverage options.</p><strong>7:30 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"image": "https://source.unsplash.com/n-HtQS7IgU4/400x150",
-					"link": "https://www.mapplic.com/",
-					"category": "food",
-					"x": "0.5431",
-					"y": "0.5240"
-				},
-				{
-					"id": "zara",
-					"title": "Zara",
-					"about": "Lorem ipsum",
-					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
-					"category": "fashion",
-					"link": "https://1.envato.market/R5Nv",
-					"x": "0.4785",
-					"y": "0.2873"
 				}
 			]
 		}

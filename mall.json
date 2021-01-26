@@ -9,6 +9,11 @@
 			"active": { "fill": "#fff" }
 		},
 		{
+			"class": "lightpurple",
+			"hover": { "fill": "#b744b7" },
+			"active": { "fill": "#bc55bc" }
+		},
+		{
 			"class": "dark",
 			"hover": { "fill": "#666" },
 			"active": { "fill": "#555" }
@@ -69,9 +74,10 @@
 				{
 					"id": "ishidobldg",
 					"title": "いしど画材ビル",
-					"action": "reveal",
+					"action": "none",
 					"x": "0.3032",
 					"y": "0.7405",
+					"style": "lightpurple",
 					"zoom": "3"
 				},
 				{

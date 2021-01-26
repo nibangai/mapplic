@@ -16,12 +16,6 @@
 	],
 	"categories": [
 		{
-			"id": "fashion",
-			"title": "Fashion",
-			"about": "Cothing & Accessories",
-			"color": "#FF9595"
-		},
-		{
 			"id": "entertainment",
 			"title": "娯楽",
 			"about": "柏二番街で遊ぶならココ！",

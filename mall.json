@@ -121,7 +121,7 @@
 					"zoom": "3"
 				},
 				{
-					"id": "kashsiwagrandbldg",
+					"id": "kashiwagrandbldg",
 					"title": "柏グランド東京ビル",
 					"action": "none",
 					"x": "0.3032",
@@ -647,7 +647,7 @@
 					"zoom": "2"
 				},
 				{
-					"id": "7eleven",
+					"id": "seveneleven",
 					"title": "セブンイレブン柏二番街店",
 					"about": "コンビニエンスストア",
 					"description": "<p>コンビニエンスストア</p><strong>24時間営業</strong> <small>Free WiFi有り</small>",

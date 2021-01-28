@@ -77,6 +77,14 @@
 					"zoom": "3"
 				},
 				{
+					"id": "sankibldg",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
 					"id": "ishidobldg",
 					"title": "いしど画材ビル",
 					"action": "none",
@@ -551,7 +559,7 @@
 					"zoom": "2"
 				},
 				{
-					"id": "modi",
+					"id": "modibldg",
 					"title": "柏モディ",
 					"about": "デパート",
 					"description": "<p>デパート</p><strong>10:30-20:00</strong>",
@@ -560,10 +568,11 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/modi",
 					"x": "0.1359",
 					"y": "0.8315",
+					"style": "darkpurple",
 					"zoom": "2"
 				},
 				{
-					"id": "marui",
+					"id": "maruibldg",
 					"title": "柏丸井",
 					"about": "ファッション衣料",
 					"description": "<p>ファッション衣料</p><strong>10:30-20:00</strong>",
@@ -572,6 +581,7 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/marui",
 					"x": "0.1359",
 					"y": "0.8315",
+					"style": "darkpurple",
 					"zoom": "2"
 				},
 				{

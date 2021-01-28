@@ -14,6 +14,11 @@
 			"active": { "fill": "#bc55bc" }
 		},
 		{
+			"class": "darkpurple",
+			"hover": { "fill": "#531b89" },
+			"active": { "fill": "#3e1370" }
+		},
+		{
 			"class": "dark",
 			"hover": { "fill": "#666" },
 			"active": { "fill": "#555" }
@@ -65,11 +70,11 @@
 				{
 					"id": "donkibldg",
 					"title": "長崎屋 ドン・キホーテ",
-					"about": "1-3F<br>ドン・キホーテ柏駅前点",
-					"description": "<strong>1-3F</strong><br>ドン・キホーテ柏駅前店<br><strong>2F</strong><br>パーラーナルシマ<br><strong>1F</strong><br>㈱成島組<br><strong>B1F</strong><br>楽園 柏店<br>",
+					"action": "none",
 					"x": "0.3032",
 					"y": "0.7405",
-					"zoom": "2"
+					"style": "darkpurple",
+					"zoom": "3"
 				},
 				{
 					"id": "ishidobldg",
@@ -577,6 +582,18 @@
 					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729099532244391e1ff0_7eleven1-m.jpeg",
 					"category": "shopping",
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/7-eleven",
+					"x": "0.1359",
+					"y": "0.8315",
+					"zoom": "2"
+				},
+				{
+					"id": "shabuyo",
+					"title": "しゃぶ葉 柏駅南口店",
+					"about": "しゃぶしゃぶ",
+					"description": "<p>しゃぶしゃぶ</p><strong>11時〜24時</strong> <small>Free WiFi有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5e7314175a00587a072570a5_shabuyo-grid-M.jpeg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/shabuyo",
 					"x": "0.1359",
 					"y": "0.8315",
 					"zoom": "2"

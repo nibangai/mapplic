@@ -81,6 +81,15 @@
 					"zoom": "3"
 				},
 				{
+					"id": "cartier5bldg",
+					"title": "カルチェ5",
+					"action": "none",
+					"x": "0.1740",
+					"y": "0.1722",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
 					"id": "ishidogazai",
 					"title": "いしど画材",
 					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
@@ -465,16 +474,7 @@
 					"zoom": "2"
 				},
 				{
-					"id": "c5b",
-					"title": "カルチェ5",
-					"about": "医薬品・化粧品・日用品",
-					"action": "reveal",
-					"x": "0.1740",
-					"y": "0.1722",
-					"zoom": "2"
-				},
-				{
-					"id": "c5b-sundrug",
+					"id": "sundrug",
 					"title": "サンドラッグ柏南口駅前店",
 					"about": "医薬品・化粧品・日用品",
 					"description": "<p>医薬品・化粧品・日用品</p><strong>10:00-21:30</strong>",

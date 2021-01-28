@@ -94,8 +94,70 @@
 					"zoom": "3"
 				},
 				{
+					"id": "keihokusuperbldg",
+					"title": "KEIHOKUスーパービル",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "keihokubldg",
+					"title": "KEIHOKUビル",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "sanshabldg",
+					"title": "サンシャビル",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "kashsiwagrandbldg",
+					"title": "柏グランド東京ビル",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
 					"id": "cartier5bldg",
 					"title": "カルチェ5",
+					"action": "none",
+					"x": "0.1740",
+					"y": "0.1722",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "sevenbldg",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "tanigawabldg",
+					"title": "谷川ビル",
+					"action": "none",
+					"x": "0.1740",
+					"y": "0.1722",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "systemlandbldg",
+					"title": "システムランドビル",
 					"action": "none",
 					"x": "0.1740",
 					"y": "0.1722",

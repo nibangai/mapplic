@@ -41,8 +41,7 @@
 			"id": "shopping",
 			"title": "ショッピング",
 			"about": "駅近でなんでも揃っちゃう！",
-			"color": "#8DB3DC",
-			"style": "dark"
+			"color": "#8DB3DC"
 		},
 		{
 			"id": "service",

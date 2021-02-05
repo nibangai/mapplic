@@ -43,12 +43,14 @@
 			"id": "shopping",
 			"title": "ショッピング",
 			"about": "駅近でなんでも揃っちゃう！",
+			"icon": "https://nibangai.github.io/mapplic/images/shopping.svg",
 			"color": "#8DB3DC"
 		},
 		{
 			"id": "service",
 			"title": "サービス&その他",
 			"about": "その他の店舗はこちら！",
+			"icon": "https://nibangai.github.io/mapplic/images/service.svg",
 			"color": "#D3B8F8"
 		},
 		{

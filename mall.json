@@ -30,28 +30,28 @@
 			"title": "柏二番街で食事",
 			"about": "中華からイタリアンまで、今日はどんな気分？",
 			"icon": "https://nibangai.github.io/mapplic/images/food.svg",
-			"color": "#A5C882"
+			"color": "#a63aa4"
 		},
 		{
 			"id": "entertainment",
 			"title": "娯楽",
 			"about": "柏二番街で遊ぶならココ！",
-			"icon": "https://nibangai.github.io/mapplic/images/microphone2.svg",
-			"color": "#FF9595"
+			"icon": "https://nibangai.github.io/mapplic/images/entertainment.svg",
+			"color": "#a63aa4"
 		},
 		{
 			"id": "shopping",
 			"title": "ショッピング",
 			"about": "駅近でなんでも揃っちゃう！",
 			"icon": "https://nibangai.github.io/mapplic/images/shopping.svg",
-			"color": "#8DB3DC"
+			"color": "#a63aa4"
 		},
 		{
 			"id": "service",
 			"title": "サービス&その他",
 			"about": "その他の店舗はこちら！",
 			"icon": "https://nibangai.github.io/mapplic/images/service.svg",
-			"color": "#D3B8F8"
+			"color": "#a63aa4"
 		},
 		{
 			"id": "nopointer-logos",

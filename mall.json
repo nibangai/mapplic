@@ -26,17 +26,18 @@
 	],
 	"categories": [
 		{
-			"id": "entertainment",
-			"title": "娯楽",
-			"about": "柏二番街で遊ぶならココ！",
-			"icon": "https://nibangai.github.io/mapplic/images/microphone1.svg",
-			"color": "#FF9595"
-		},
-		{
 			"id": "food",
 			"title": "柏二番街で食事",
 			"about": "中華からイタリアンまで、今日はどんな気分？",
+			"icon": "https://nibangai.github.io/mapplic/images/food.svg",
 			"color": "#A5C882"
+		},
+		{
+			"id": "entertainment",
+			"title": "娯楽",
+			"about": "柏二番街で遊ぶならココ！",
+			"icon": "https://nibangai.github.io/mapplic/images/microphone2.svg",
+			"color": "#FF9595"
 		},
 		{
 			"id": "shopping",

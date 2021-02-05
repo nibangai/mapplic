@@ -52,7 +52,7 @@
 		{
 			"id": "nopointer-logos",
 			"title": "Logos",
-			"toggle": "true",
+			"toggle": "false",
 			"legend": "true",
 			"hide": "true"
 		}

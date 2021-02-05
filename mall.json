@@ -70,112 +70,147 @@
 			"show": "true",
 			"locations": [
 				{
-					"id": "donkibldg",
-					"title": "長崎屋 ドン・キホーテ",
-					"action": "none",
-					"x": "0.3032",
-					"y": "0.7405",
-					"style": "darkpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "sankibldg",
-					"action": "none",
-					"x": "0.5849",
-					"y": "0.8605",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "ishidobldg",
-					"title": "いしど画材ビル",
-					"action": "none",
-					"x": "0.6686",
-					"y": "0.7685",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "keihokusuperbldg",
-					"title": "KEIHOKUスーパービル",
-					"action": "none",
-					"x": "0.7480",
-					"y": "0.7050",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "keihokubldg",
-					"title": "KEIHOKUビル",
-					"action": "none",
-					"x": "0.8283",
-					"y": "0.5545",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "sanshabldg",
-					"title": "サンシャビル",
-					"action": "none",
-					"x": "0.8124",
-					"y": "0.4324",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "kashiwagrandbldg",
-					"title": "柏グランド東京ビル",
-					"action": "none",
-					"x": "0.7037",
-					"y": "0.4742",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "cartier5bldg",
-					"title": "カルチェ5",
-					"action": "none",
-					"x": "0.5582",
-					"y": "0.5294",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "sevenbldg",
-					"action": "none",
-					"x": "0.4705",
-					"y": "0.4264",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "tanigawabldg",
-					"title": "谷川ビル",
-					"action": "none",
-					"x": "0.4713",
-					"y": "0.2993",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "systemlandbldg",
-					"title": "システムランドビル",
-					"action": "none",
-					"x": "0.2815",
-					"y": "0.3210",
-					"style": "lightpurple",
-					"zoom": "3"
-				},
-				{
-					"id": "ishidogazai",
-					"title": "いしど画材",
-					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
-					"description": "<p>文具・画材・額縁・工芸材料・和洋紙・アートスクール</p><strong>10:00-19:00</strong> <small>Free WiFi有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923a92e43da590a3c8eba_grid-ishidogazai1-min.jpg",
+					"id": "donki",
+					"title": "ドンキホーテ柏駅前店",
+					"about": "ディスカウントストア、食料品、衣料品、生活用品",
+					"description": "<p>ディスカウントストア、食料品、衣料品、生活用品</p><strong>9:00-翌1:00</strong> <small>Free WiFi、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77290fe005531bdaa7048_donki1-m.jpeg",
 					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/ishido-gazai",
-					"x": "0.6372",
-					"y": "0.7167",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/don-quijote",
+					"x": "0.4485",
+					"y": "0.7697",
+					"zoom": "2"
+				},
+				{
+					"id": "narushimacafe",
+					"title": "パーラーナルシマ",
+					"about": "ランチ・軽食デザート・ドリンク",
+					"description": "<p>ランチ・軽食デザート・ドリンク</p><strong>月〜土 10:00-21:00, 日・祝10:00-19:00</strong> <small>コンセント有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c69178e2e43daf6503c7fd1_grid-narushima1-min.jpg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/narushima-cafe",
+					"x": "0.3274",
+					"y": "0.6179",
+					"zoom": "2"
+				},
+				{
+					"id": "narushimagroup",
+					"title": "㈱成島組",
+					"about": "デザイン住宅・一般土木工事・曳家解体工事",
+					"description": "<p>デザイン住宅・一般土木工事・曳家解体工事</p><strong>9:00-17:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77292733a794518033da4_narushimagroup1-m.jpeg",
+					"category": "service",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/narushima-group",
+					"x": "0.3894",
+					"y": "0.5844",
+					"zoom": "2"
+				},
+				{
+					"id": "rakuen",
+					"title": "楽園柏店",
+					"about": "パチンコ・スロット",
+					"description": "<p>パチンコ・スロット</p><strong>10:00-22:45</strong> <small>Free WiFi、コンセント、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772923cde560f20e25761_rakuen1-m.jpeg",
+					"category": "entertainment",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/rakuen",
+					"x": "0.2642",
+					"y": "0.6294",
+					"zoom": "2"
+				},
+				{
+					"id": "tsutaya",
+					"title": "TSUTAYA柏駅前店",
+					"about": "レンタルビデオ",
+					"description": "<p>レンタルビデオ</p><strong>3F 9:00-24:00, 4F 10:00-24:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77294733a79334c033da5_tsutaya1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/tsutaya",
+					"x": "0.5234",
+					"y": "0.5695",
+					"zoom": "2"
+				},
+				{
+					"id": "yamano",
+					"title": "山野楽器サウンドクルー柏",
+					"about": "楽器",
+					"description": "<p>楽器</p><strong>10:00-21:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772955cca37c522a05b61_yamano1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/yamano-music",
+					"x": "0.5789",
+					"y": "0.5620",
+					"zoom": "2"
+				},
+				{
+					"id": "shinseido",
+					"title": "新星堂カルチェ5柏店",
+					"about": "音楽",
+					"description": "<p>音楽</p><strong>10:00-21:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772931292fe58fc1d17cb_shinseido1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/shinseido",
+					"x": "0.5304",
+					"y": "0.6045",
+					"zoom": "2"
+				},
+				{
+					"id": "sundrug",
+					"title": "サンドラッグ柏南口駅前店",
+					"about": "医薬品・化粧品・日用品",
+					"description": "<p>医薬品・化粧品・日用品</p><strong>10:00-21:30</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77294583af16ed2264d4f_sundrug1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/sun-drug",
+					"x": "0.5457",
+					"y": "0.6360",
+					"reveal": "2"
+				},
+				{
+					"id": "pia",
+					"title": "PIA柏店・本館/新館",
+					"about": "パチンコ・スロット",
+					"description": "<p>パチンコ・スロット</p><strong>10:00-22:45</strong> <small>Free WiFi、充電器有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729228794da2b1e84237_pia1-m.jpeg",
+					"category": "entertainment",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/pia",
+					"x": "0.5508",
+					"y": "0.6740",
+					"zoom": "2"
+				},
+				{
+					"id": "newsanki",
+					"title": "ニューサンキ",
+					"about": "総合衣料品",
+					"description": "<p>総合衣料品</p><strong>10:00-19:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c5f0dddc526e0f058c3f194_grid-newsanki.jpg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/new-sanki",
+					"x": "0.5624",
+					"y": "0.8014",
+					"zoom": "2"
+				},
+				{
+					"id": "mcdonalds",
+					"title": "マクドナルド柏店",
+					"about": "ファーストフード・ハンバーガー",
+					"description": "<p>ファーストフード・ハンバーガー</p><strong>7:00-23:00</strong> <small>Free WiFi、コンセント有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77291781a6f92909054fc_mcdonalds1-m.jpeg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/mcdonalds",
+					"x": "0.5894",
+					"y": "0.5948",
+					"zoom": "2"
+				},
+				{
+					"id": "shimada",
+					"title": "シマダ時計店",
+					"about": "時計・貴金属",
+					"description": "<p>時計・貴金属</p>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772931292fe04731d17ca_shimada1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/shimada-tokei",
+					"x": "0.6332",
+					"y": "0.5538",
 					"zoom": "2"
 				},
 				{
@@ -248,6 +283,18 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/tsutsumi",
 					"x": "0.6770",
 					"y": "0.8473",
+					"zoom": "2"
+				},
+				{
+					"id": "ishidogazai",
+					"title": "いしど画材",
+					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
+					"description": "<p>文具・画材・額縁・工芸材料・和洋紙・アートスクール</p><strong>10:00-19:00</strong> <small>Free WiFi有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923a92e43da590a3c8eba_grid-ishidogazai1-min.jpg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/ishido-gazai",
+					"x": "0.6372",
+					"y": "0.7167",
 					"zoom": "2"
 				},
 				{
@@ -466,150 +513,7 @@
 					"y": "0.3548",
 					"zoom": "2"
 				},
-				{
-					"id": "donki",
-					"title": "ドンキホーテ柏駅前店",
-					"about": "ディスカウントストア、食料品、衣料品、生活用品",
-					"description": "<p>ディスカウントストア、食料品、衣料品、生活用品</p><strong>9:00-翌1:00</strong> <small>Free WiFi、充電器有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77290fe005531bdaa7048_donki1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/don-quijote",
-					"x": "0.4485",
-					"y": "0.7697",
-					"zoom": "2"
-				},
-				{
-					"id": "narushimacafe",
-					"title": "パーラーナルシマ",
-					"about": "ランチ・軽食デザート・ドリンク",
-					"description": "<p>ランチ・軽食デザート・ドリンク</p><strong>月〜土 10:00-21:00, 日・祝10:00-19:00</strong> <small>コンセント有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c69178e2e43daf6503c7fd1_grid-narushima1-min.jpg",
-					"category": "food",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/narushima-cafe",
-					"x": "0.3274",
-					"y": "0.6179",
-					"zoom": "2"
-				},
-				{
-					"id": "narushimagroup",
-					"title": "㈱成島組",
-					"about": "デザイン住宅・一般土木工事・曳家解体工事",
-					"description": "<p>デザイン住宅・一般土木工事・曳家解体工事</p><strong>9:00-17:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77292733a794518033da4_narushimagroup1-m.jpeg",
-					"category": "service",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/narushima-group",
-					"x": "0.3894",
-					"y": "0.5844",
-					"zoom": "2"
-				},
-				{
-					"id": "rakuen",
-					"title": "楽園柏店",
-					"about": "パチンコ・スロット",
-					"description": "<p>パチンコ・スロット</p><strong>10:00-22:45</strong> <small>Free WiFi、コンセント、充電器有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772923cde560f20e25761_rakuen1-m.jpeg",
-					"category": "entertainment",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/rakuen",
-					"x": "0.2642",
-					"y": "0.6294",
-					"zoom": "2"
-				},
-				{
-					"id": "tsutaya",
-					"title": "TSUTAYA柏駅前店",
-					"about": "レンタルビデオ",
-					"description": "<p>レンタルビデオ</p><strong>3F 9:00-24:00, 4F 10:00-24:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77294733a79334c033da5_tsutaya1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/tsutaya",
-					"x": "0.5234",
-					"y": "0.5695",
-					"zoom": "2"
-				},
-				{
-					"id": "yamano",
-					"title": "山野楽器サウンドクルー柏",
-					"about": "楽器",
-					"description": "<p>楽器</p><strong>10:00-21:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772955cca37c522a05b61_yamano1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/yamano-music",
-					"x": "0.5789",
-					"y": "0.5620",
-					"zoom": "2"
-				},
-				{
-					"id": "shinseido",
-					"title": "新星堂カルチェ5柏店",
-					"about": "音楽",
-					"description": "<p>音楽</p><strong>10:00-21:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772931292fe58fc1d17cb_shinseido1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/shinseido",
-					"x": "0.5304",
-					"y": "0.6045",
-					"zoom": "2"
-				},
-				{
-					"id": "sundrug",
-					"title": "サンドラッグ柏南口駅前店",
-					"about": "医薬品・化粧品・日用品",
-					"description": "<p>医薬品・化粧品・日用品</p><strong>10:00-21:30</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77294583af16ed2264d4f_sundrug1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/sun-drug",
-					"x": "0.5457",
-					"y": "0.6360",
-					"reveal": "2"
-				},
-				{
-					"id": "pia",
-					"title": "PIA柏店・本館/新館",
-					"about": "パチンコ・スロット",
-					"description": "<p>パチンコ・スロット</p><strong>10:00-22:45</strong> <small>Free WiFi、充電器有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729228794da2b1e84237_pia1-m.jpeg",
-					"category": "entertainment",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/pia",
-					"x": "0.5508",
-					"y": "0.6740",
-					"zoom": "2"
-				},
-				{
-					"id": "newsanki",
-					"title": "ニューサンキ",
-					"about": "総合衣料品",
-					"description": "<p>総合衣料品</p><strong>10:00-19:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c5f0dddc526e0f058c3f194_grid-newsanki.jpg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/new-sanki",
-					"x": "0.5624",
-					"y": "0.8014",
-					"zoom": "2"
-				},
-				{
-					"id": "mcdonalds",
-					"title": "マクドナルド柏店",
-					"about": "ファーストフード・ハンバーガー",
-					"description": "<p>ファーストフード・ハンバーガー</p><strong>7:00-23:00</strong> <small>Free WiFi、コンセント有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77291781a6f92909054fc_mcdonalds1-m.jpeg",
-					"category": "food",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/mcdonalds",
-					"x": "0.5894",
-					"y": "0.5948",
-					"zoom": "2"
-				},
-				{
-					"id": "shimada",
-					"title": "シマダ時計店",
-					"about": "時計・貴金属",
-					"description": "<p>時計・貴金属</p>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772931292fe04731d17ca_shimada1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/shimada-tokei",
-					"x": "0.6332",
-					"y": "0.5538",
-					"zoom": "2"
-				},
+				
 				{
 					"id": "saizeriya",
 					"title": "サイゼリヤ柏駅南口店",
@@ -620,6 +524,30 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/saizeriya",
 					"x": "0.4675",
 					"y": "0.4077",
+					"zoom": "2"
+				},
+				{
+					"id": "seveneleven",
+					"title": "セブンイレブン柏二番街店",
+					"about": "コンビニエンスストア",
+					"description": "<p>コンビニエンスストア</p><strong>24時間営業</strong> <small>Free WiFi有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729099532244391e1ff0_7eleven1-m.jpeg",
+					"category": "shopping",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/7-eleven",
+					"x": "0.4697",
+					"y": "0.4396",
+					"zoom": "2"
+				},
+				{
+					"id": "shabuyo",
+					"title": "しゃぶ葉 柏駅南口店",
+					"about": "しゃぶしゃぶ",
+					"description": "<p>しゃぶしゃぶ</p><strong>11時〜24時</strong> <small>Free WiFi有り</small>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5e7314175a00587a072570a5_shabuyo-grid-M.jpeg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/shabuyo",
+					"x": "0.4717",
+					"y": "0.3119",
 					"zoom": "2"
 				},
 				{
@@ -649,28 +577,101 @@
 					"zoom": "2"
 				},
 				{
-					"id": "seveneleven",
-					"title": "セブンイレブン柏二番街店",
-					"about": "コンビニエンスストア",
-					"description": "<p>コンビニエンスストア</p><strong>24時間営業</strong> <small>Free WiFi有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729099532244391e1ff0_7eleven1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/7-eleven",
-					"x": "0.4697",
-					"y": "0.4396",
-					"zoom": "2"
+					"id": "donkibldg",
+					"title": "長崎屋 ドン・キホーテ",
+					"action": "none",
+					"x": "0.3032",
+					"y": "0.7405",
+					"style": "darkpurple",
+					"zoom": "3"
 				},
 				{
-					"id": "shabuyo",
-					"title": "しゃぶ葉 柏駅南口店",
-					"about": "しゃぶしゃぶ",
-					"description": "<p>しゃぶしゃぶ</p><strong>11時〜24時</strong> <small>Free WiFi有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5e7314175a00587a072570a5_shabuyo-grid-M.jpeg",
-					"category": "food",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/shabuyo",
-					"x": "0.4717",
-					"y": "0.3119",
-					"zoom": "2"
+					"id": "sankibldg",
+					"action": "none",
+					"x": "0.5849",
+					"y": "0.8605",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "ishidobldg",
+					"title": "いしど画材ビル",
+					"action": "none",
+					"x": "0.6686",
+					"y": "0.7685",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "keihokusuperbldg",
+					"title": "KEIHOKUスーパービル",
+					"action": "none",
+					"x": "0.7480",
+					"y": "0.7050",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "keihokubldg",
+					"title": "KEIHOKUビル",
+					"action": "none",
+					"x": "0.8283",
+					"y": "0.5545",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "sanshabldg",
+					"title": "サンシャビル",
+					"action": "none",
+					"x": "0.8124",
+					"y": "0.4324",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "kashiwagrandbldg",
+					"title": "柏グランド東京ビル",
+					"action": "none",
+					"x": "0.7037",
+					"y": "0.4742",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "cartier5bldg",
+					"title": "カルチェ5",
+					"action": "none",
+					"x": "0.5582",
+					"y": "0.5294",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "sevenbldg",
+					"action": "none",
+					"x": "0.4705",
+					"y": "0.4264",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "tanigawabldg",
+					"title": "谷川ビル",
+					"action": "none",
+					"x": "0.4713",
+					"y": "0.2993",
+					"style": "lightpurple",
+					"zoom": "3"
+				},
+				{
+					"id": "systemlandbldg",
+					"title": "システムランドビル",
+					"action": "none",
+					"x": "0.2815",
+					"y": "0.3210",
+					"style": "lightpurple",
+					"zoom": "3"
 				}
 			]
 		}

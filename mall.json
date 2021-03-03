@@ -29,28 +29,28 @@
 			"id": "food",
 			"title": "柏二番街で食事",
 			"about": "中華からイタリアンまで、今日はどんな気分？",
-			"icon": "https://nibangai.github.io/mapplic/images/food.svg",
+			"icon": "images/food.svg",
 			"color": "#a63aa4"
 		},
 		{
 			"id": "entertainment",
 			"title": "娯楽",
 			"about": "柏二番街で遊ぶならココ！",
-			"icon": "https://nibangai.github.io/mapplic/images/entertainment.svg",
+			"icon": "images/entertainment.svg",
 			"color": "#a63aa4"
 		},
 		{
 			"id": "shopping",
 			"title": "ショッピング",
 			"about": "駅近でなんでも揃っちゃう！",
-			"icon": "https://nibangai.github.io/mapplic/images/shopping.svg",
+			"icon": "images/shopping.svg",
 			"color": "#a63aa4"
 		},
 		{
 			"id": "service",
 			"title": "サービス&その他",
 			"about": "その他の店舗はこちら！",
-			"icon": "https://nibangai.github.io/mapplic/images/service.svg",
+			"icon": "images/service.svg",
 			"color": "#a63aa4"
 		},
 		{
@@ -65,8 +65,8 @@
 		{
 			"id": "ground-floor",
 			"title": "Ground Floor",
-			"map": "https://nibangai.github.io/mapplic/maps/mall/mall-ground.svg",
-			"minimap": "https://nibangai.github.io/mapplic/maps/mall/mall-ground-mini.jpg",
+			"map": "maps/mall/mall-ground.svg",
+			"minimap": "maps/mall/mall-ground-mini.jpg",
 			"show": "true",
 			"locations": [
 				{
@@ -513,7 +513,7 @@
 					"y": "0.3548",
 					"zoom": "2"
 				},
-				
+
 				{
 					"id": "saizeriya",
 					"title": "サイゼリヤ柏駅南口店",

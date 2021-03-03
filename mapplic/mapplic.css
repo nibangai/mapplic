@@ -709,7 +709,7 @@ input.mapplic-search-input:focus {
 }
 
 .mapplic-tag > span {
-	background-image: url(https://nibangai.github.io/mapplic/images/cross-light.svg);
+	background-image: url(images/cross-light.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 6px 6px;
@@ -1284,14 +1284,14 @@ g.mapplic-clickable > * {
 
 /* IE workaround */
 @media all and (-ms-high-contrast:none) {
-	.mapplic-zoomout-button { background: #fff url(https://nibangai.github.io/mapplic/images/ie/minus.svg) no-repeat center !important; } 
-	.mapplic-zoomin-button { background: #fff url(https://nibangai.github.io/mapplic/images/ie/plus.svg) no-repeat center !important; }
-	.mapplic-clear-button { background: #fff url(https://nibangai.github.io/mapplic/images/ie/reset.svg) no-repeat center !important; }
-	.mapplic-fullscreen-button { background: #fff url(https://nibangai.github.io/mapplic/images/ie/fullscreen.svg) no-repeat center !important; }
-	.mapplic-fullscreen .mapplic-fullscreen-button { background: #fff url(https://nibangai.github.io/mapplic/images/ie/fullscreen-exit.svg) no-repeat center !important; }
-	.mapplic-levels .mapplic-levels-up { background: #fff url(https://nibangai.github.io/mapplic/images/ie/arrow-up.svg) no-repeat center !important; } 
-	.mapplic-levels .mapplic-levels-down { background: #fff url(https://nibangai.github.io/mapplic/images/ie/arrow-down.svg) no-repeat center !important; }
-	.mapplic-search-clear { background: #fff url(https://nibangai.github.io/mapplic/images/ie/cross.svg) no-repeat center !important; }
+	.mapplic-zoomout-button { background: #fff url(images/ie/minus.svg) no-repeat center !important; } 
+	.mapplic-zoomin-button { background: #fff url(images/ie/plus.svg) no-repeat center !important; }
+	.mapplic-clear-button { background: #fff url(images/ie/reset.svg) no-repeat center !important; }
+	.mapplic-fullscreen-button { background: #fff url(images/ie/fullscreen.svg) no-repeat center !important; }
+	.mapplic-fullscreen .mapplic-fullscreen-button { background: #fff url(images/ie/fullscreen-exit.svg) no-repeat center !important; }
+	.mapplic-levels .mapplic-levels-up { background: #fff url(images/ie/arrow-up.svg) no-repeat center !important; } 
+	.mapplic-levels .mapplic-levels-down { background: #fff url(images/ie/arrow-down.svg) no-repeat center !important; }
+	.mapplic-search-clear { background: #fff url(images/ie/cross.svg) no-repeat center !important; }
 }
 
 /* Accessibility */

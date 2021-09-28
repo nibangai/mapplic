@@ -329,8 +329,8 @@
 					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923aa2e43da827d3c8ebb_grid-keihoku1-min.jpg",
 					"category": "shopping",
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/keihoku-super",
-					"x": "0.7332",
-					"y": "0.6274",
+					"x": "0.7400",
+					"y": "0.6600",
 					"zoom": "2"
 				},
 				{
@@ -353,8 +353,8 @@
 					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff75aa68913033a379665f2_mangaland1-m.jpeg",
 					"category": "entertainment",
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/manga-land",
-					"x": "0.7370",
-					"y": "0.6608",
+					"x": "0.7288",
+					"y": "0.6412",
 					"zoom": "2"
 				},
 				{
@@ -548,6 +548,18 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/shabuyo",
 					"x": "0.4717",
 					"y": "0.3119",
+					"zoom": "2"
+				},
+								{
+					"id": "cona",
+					"title": "CONA 柏店",
+					"about": "イタリアン&ワインバー",
+					"description": "<p>イタリアン&ワインバー</p><strong>月〜土 11:00〜24:00 日、祝 11:00〜24:00</strong>",
+					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/614d72fcb0490ea5182dd89d_grid-cona-m.jpeg",
+					"category": "food",
+					"link": "https://www.kashiwa-nibangai.com/shop-ja/cona",
+					"x": "0.7438",
+					"y": "0.6950",
 					"zoom": "2"
 				},
 				{

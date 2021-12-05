@@ -238,18 +238,6 @@
 					"zoom": "2"
 				},
 				{
-					"id": "ikukomamas",
-					"title": "いくこママズパソコンスクール",
-					"about": "パソコン教育、スマホ・タブレット教育",
-					"description": "<p>パソコン教育、スマホ・タブレット教育</p><strong>原則1-3週 10:00-17:00、土曜 1.3週</strong> <small>Free WiFi、コンセント、充電器有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff6e365650715066e36912c_ikukomamas1-m.jpeg",
-					"category": "service",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/ikuko-mamas",
-					"x": "0.6655",
-					"y": "0.7721",
-					"zoom": "2"
-				},
-				{
 					"id": "utahiroba",
 					"title": "カラオケルーム 歌広場柏東口二番街店",
 					"about": "カラオケ",
@@ -463,18 +451,6 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/pia",
 					"x": "0.4736",
 					"y": "0.3458",
-					"zoom": "2"
-				},
-				{
-					"id": "caldo",
-					"title": "カルド柏",
-					"about": "ホットヨガ・フィットネス",
-					"description": "<p>ホットヨガ・フィットネス</p><strong>平日9:30-23:00, 土日祝9:30-20:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff772903e6d4b4ccd68e7c8_caldo1-m.jpeg",
-					"category": "service",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/caldo",
-					"x": "0.4706",
-					"y": "0.2828",
 					"zoom": "2"
 				},
 				{

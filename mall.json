@@ -418,18 +418,6 @@
 					"zoom": "2"
 				},
 				{
-					"id": "burgerking",
-					"title": "バーガーキング 柏梅林堂ビル店",
-					"about": "ファーストフード・ハンバーガー",
-					"description": "<p>ファーストフード・ハンバーガー</p><strong>7:00-23:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5e7312e7fa64986f84594f57_burgerking-grid-M.jpeg",
-					"category": "food",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/burger-king-bairindo",
-					"x": "0.8398",
-					"y": "0.4573",
-					"zoom": "2"
-				},
-				{
 					"id": "yoshiyoshien",
 					"title": "中華料理 佳佳苑 柏店",
 					"about": "中華料理",

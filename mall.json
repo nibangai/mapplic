@@ -94,18 +94,6 @@
 					"zoom": "2"
 				},
 				{
-					"id": "narushimagroup",
-					"title": "㈱成島組",
-					"about": "デザイン住宅・一般土木工事・曳家解体工事",
-					"description": "<p>デザイン住宅・一般土木工事・曳家解体工事</p><strong>9:00-17:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff77292733a794518033da4_narushimagroup1-m.jpeg",
-					"category": "service",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/narushima-group",
-					"x": "0.3894",
-					"y": "0.5844",
-					"zoom": "2"
-				},
-				{
 					"id": "rakuen",
 					"title": "楽園柏店",
 					"about": "パチンコ・スロット",
@@ -274,18 +262,6 @@
 					"zoom": "2"
 				},
 				{
-					"id": "ishidogazai",
-					"title": "いしど画材",
-					"about": "文具・画材・額縁・工芸材料・和洋紙・アートスクール",
-					"description": "<p>文具・画材・額縁・工芸材料・和洋紙・アートスクール</p><strong>10:00-19:00</strong> <small>Free WiFi有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923a92e43da590a3c8eba_grid-ishidogazai1-min.jpg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/ishido-gazai",
-					"x": "0.6372",
-					"y": "0.7167",
-					"zoom": "2"
-				},
-				{
 					"id": "sapty",
 					"title": "たべのみや Sapty Pepper's",
 					"about": "たべのみや",
@@ -439,18 +415,6 @@
 					"link": "https://www.kashiwa-nibangai.com/shop-ja/pia",
 					"x": "0.4736",
 					"y": "0.3458",
-					"zoom": "2"
-				},
-				{
-					"id": "sakazen",
-					"title": "サカゼン柏店",
-					"about": "紳士服",
-					"description": "<p>紳士服</p><strong>10:00-21:00</strong> <small>Free WiFi有り</small>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5ff7729286da71c265551714_sakazen1-m.jpeg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/sakazen",
-					"x": "0.2980",
-					"y": "0.2863",
 					"zoom": "2"
 				},
 				{

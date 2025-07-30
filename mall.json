@@ -492,19 +492,6 @@
 					"zoom": "2"
 				},
 				{
-					"id": "maruibldg",
-					"title": "柏丸井",
-					"about": "ファッション衣料",
-					"description": "<p>ファッション衣料</p><strong>10:30-20:00</strong>",
-					"image": "https://uploads-ssl.webflow.com/5c56dde55309582adf46ba7f/5c6923aac8252cab6dac4ba7_grid-marui1-min.jpg",
-					"category": "shopping",
-					"link": "https://www.kashiwa-nibangai.com/shop-ja/marui",
-					"x": "0.5782",
-					"y": "0.1182",
-					"style": "darkpurple",
-					"zoom": "2"
-				},
-				{
 					"id": "donkibldg",
 					"title": "長崎屋 ドン・キホーテ",
 					"action": "none",
